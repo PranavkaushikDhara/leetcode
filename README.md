@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-My solutions to LeetCode problems, automatically organized using [Code Bridge](https://github.com/your-username/GitCode).
+My solutions to LeetCode problems, automatically organized using [Code Bridge](https://github.com/pranavkaushikdhara/GitCode).
 
 ## Structure
 
